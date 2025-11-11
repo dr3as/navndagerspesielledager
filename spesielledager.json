@@ -1,4 +1,14 @@
 {
+  "2025-01-01": [
+    "Første nyttårsdag",
+    "🇳🇴 New Year's Day"
+  ],
+  "2025-01-04": [
+    "Verdens blindeskriftdag"
+  ],
+  "2025-01-21": [
+    "HKH Prinsesse Ingrid Alexandras fødselsdag"
+  ],
   "2025-01-24": [
     "🍕 Internasjonal pizzadag"
   ],
@@ -8,11 +18,27 @@
   "2025-02-05": [
     "🍫 Nutella-dagen"
   ],
+  "2025-02-06": [
+    "Den samiske nasjonaldagen"
+  ],
   "2025-02-14": [
     "💘 Valentinsdagen"
   ],
+  "2025-02-21": [
+    "Internasjonal morsmålsdag",
+    "HM Haralds Vs fødselsdag"
+  ],
+  "2025-03-01": [
+    "Internasjonal dag mot all diskriminering"
+  ],
+  "2025-03-08": [
+    "Kvinnedagen"
+  ],
   "2025-03-14": [
     "🥧 Pi-dagen (3.14)"
+  ],
+  "2025-03-17": [
+    "St. Patricks Day"
   ],
   "2025-03-20": [
     "🌍 Internasjonal lykkedag"
@@ -21,7 +47,7 @@
     "🎵 Verdens poesidag"
   ],
   "2025-03-25": [
-    "🧇 Våffeldagen"
+    "🧇 Vaffeldagen"
   ],
   "2025-04-07": [
     "🏃 Verdens helsedag"
@@ -44,7 +70,7 @@
     "🍦 Europeisk iskremdag"
   ],
   "2025-05-17": [
-    "🇳🇴 Grunnlovsdagen (Nasjonaldag)",
+    "Grunnlovsdagen (Nasjonaldag)",
     "🇳🇴 Constitution Day"
   ],
   "2025-06-01": [
@@ -61,6 +87,9 @@
   ],
   "2025-07-06": [
     "🍫 Verdens sjokoladedag"
+  ],
+  "2025-07-29": [
+    "Olsok"
   ],
   "2025-08-08": [
     "🐱 Verdens kattedag"
@@ -86,11 +115,23 @@
   "2025-10-16": [
     "🍞 Verdens matdag"
   ],
+  "2025-10-17": [
+    "Epledagen"
+  ],
+  "2025-10-24": [
+    "FN-dagen"
+  ],
   "2025-10-31": [
     "🎃 Halloween"
   ],
   "2025-11-11": [
     "💘 Singlesday"
+  ],
+  "2025-11-20": [
+    "FNs internasjonale barnedag"
+  ],
+  "2025-11-21": [
+    "Verdens fjernsynsdag"
   ],
   "2025-11-13": [
     "😄 Verdens snillhetsdag"
@@ -100,6 +141,20 @@
   ],
   "2025-12-21": [
     "❄️ Vintersolverv (ca. 21.–22. desember)"
+  ],
+  "2025-12-23": [
+    "Lille Julaften"
+  ],
+  "2025-12-24": [
+    "Julaften"
+  ],
+  "2025-12-25": [
+    "Første Juledag",
+    "Andre Juledag",
+    "🇳🇴 Christmas Day"
+  ],
+  "2025-12-31": [
+    "Nyttårsaften"
   ],
   "2025-02-09": [
     "💐 Morsdag"
@@ -174,14 +229,18 @@
   "2025-06-14": [
     "🇬🇧 Storbritannias nasjonaldag (2. lørdag i juni)"
   ],
-  "2025-01-01": [
-    "🇳🇴 New Year's Day"
-  ],
-  "2025-12-25": [
-    "🇳🇴 Christmas Day"
-  ],
   "2025-12-26": [
     "🇳🇴 Second Day of Christmas"
+  ],
+  "2026-01-01": [
+    "Første nyttårsdag",
+    "🇳🇴 New Year's Day"
+  ],
+  "2026-01-04": [
+    "Verdens blindeskriftdag"
+  ],
+  "2026-01-21": [
+    "HKH Prinsesse Ingrid Alexandras fødselsdag"
   ],
   "2026-01-24": [
     "🍕 Internasjonal pizzadag"
@@ -192,11 +251,27 @@
   "2026-02-05": [
     "🍫 Nutella-dagen"
   ],
+  "2026-02-06": [
+    "Den samiske nasjonaldagen"
+  ],
   "2026-02-14": [
     "💘 Valentinsdagen"
   ],
+  "2026-02-21": [
+    "Internasjonal morsmålsdag",
+    "HM Haralds Vs fødselsdag"
+  ],
+  "2026-03-01": [
+    "Internasjonal dag mot all diskriminering"
+  ],
+  "2026-03-08": [
+    "Kvinnedagen"
+  ],
   "2026-03-14": [
     "🥧 Pi-dagen (3.14)"
+  ],
+  "2026-03-17": [
+    "St. Patricks Day"
   ],
   "2026-03-20": [
     "🌍 Internasjonal lykkedag"
@@ -205,7 +280,7 @@
     "🎵 Verdens poesidag"
   ],
   "2026-03-25": [
-    "🧇 Våffeldagen"
+    "🧇 Vaffeldagen"
   ],
   "2026-04-07": [
     "🏃 Verdens helsedag"
@@ -227,7 +302,7 @@
     "🍦 Europeisk iskremdag"
   ],
   "2026-05-17": [
-    "🇳🇴 Grunnlovsdagen (Nasjonaldag)",
+    "Grunnlovsdagen (Nasjonaldag)",
     "🇳🇴 Constitution Day"
   ],
   "2026-06-01": [
@@ -244,6 +319,9 @@
   ],
   "2026-07-06": [
     "🍫 Verdens sjokoladedag"
+  ],
+  "2026-07-29": [
+    "Olsok"
   ],
   "2026-08-08": [
     "🐱 Verdens kattedag"
@@ -269,11 +347,23 @@
   "2026-10-16": [
     "🍞 Verdens matdag"
   ],
+  "2026-10-17": [
+    "Epledagen"
+  ],
+  "2026-10-24": [
+    "FN-dagen"
+  ],
   "2026-10-31": [
     "🎃 Halloween"
   ],
   "2026-11-11": [
     "💘 Singlesday"
+  ],
+  "2026-11-20": [
+    "FNs internasjonale barnedag"
+  ],
+  "2026-11-21": [
+    "Verdens fjernsynsdag"
   ],
   "2026-11-13": [
     "😄 Verdens snillhetsdag"
@@ -283,6 +373,20 @@
   ],
   "2026-12-21": [
     "❄️ Vintersolverv (ca. 21.–22. desember)"
+  ],
+  "2026-12-23": [
+    "Lille Julaften"
+  ],
+  "2026-12-24": [
+    "Julaften"
+  ],
+  "2026-12-25": [
+    "Første Juledag",
+    "Andre Juledag",
+    "🇳🇴 Christmas Day"
+  ],
+  "2026-12-31": [
+    "Nyttårsaften"
   ],
   "2026-02-08": [
     "💐 Morsdag"
@@ -357,12 +461,6 @@
   ],
   "2026-06-13": [
     "🇬🇧 Storbritannias nasjonaldag (2. lørdag i juni)"
-  ],
-  "2026-01-01": [
-    "🇳🇴 New Year's Day"
-  ],
-  "2026-12-25": [
-    "🇳🇴 Christmas Day"
   ],
   "2026-12-26": [
     "🇳🇴 Second Day of Christmas"
