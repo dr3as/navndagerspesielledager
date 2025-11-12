@@ -1,7 +1,6 @@
 {
   "2025-01-01": [
-    "Første nyttårsdag",
-    "🇳🇴 New Year's Day"
+    "Første nyttårsdag"
   ],
   "2025-01-04": [
     "Verdens blindeskriftdag"
@@ -21,6 +20,9 @@
   "2025-02-06": [
     "Den samiske nasjonaldagen"
   ],
+  "2025-02-09": [
+    "💐 Morsdag"
+  ],
   "2025-02-14": [
     "💘 Valentinsdagen"
   ],
@@ -30,6 +32,15 @@
   ],
   "2025-03-01": [
     "Internasjonal dag mot all diskriminering"
+  ],
+  "2025-03-02": [
+    "🎭 Fastelavn"
+  ],
+  "2025-03-04": [
+    "🥞 Feittirsdag"
+  ],
+  "2025-03-05": [
+    "🙏 Askeonsdag"
   ],
   "2025-03-08": [
     "Kvinnedagen"
@@ -49,32 +60,85 @@
   "2025-03-25": [
     "🧇 Vaffeldagen"
   ],
+  "2025-03-30": [
+    "⏰ Overgang til sommertid (still klokken frem)"
+  ],
   "2025-04-07": [
     "🏃 Verdens helsedag"
   ],
+  "2025-04-13": [
+    "🌿 Palmesøndag"
+  ],
   "2025-04-14": [
-    "🍖 Biff- og blowjob-dagen (humordag)"
+    "🍖 Biff- og bj-dagen"
+  ],
+  "2025-04-17": [
+    "🍞 Skjærtorsdag"
+  ],
+  "2025-04-18": [
+    "✝️ Langfredag"
+  ],
+  "2025-04-19": [
+    "🐣 Påskeaften"
+  ],
+  "2025-04-20": [
+    "🐰 Første påskedag"
+  ],
+  "2025-04-21": [
+    "🐥 Andre påskedag"
   ],
   "2025-04-22": [
     "🌱 Jordens dag"
   ],
+  "2025-04-23": [
+    "Verdens Bokdag"
+  ],
+  "2025-04-29": [
+    "Dansens dag"
+  ],
   "2025-05-01": [
-    "⚒️ Arbeidernes dag",
-    "🇳🇴 Labor Day"
+    "⚒️ Arbeidernes dag"
+  ],
+  "2025-05-03": [
+    "Internasjonal dag for pressefrihet"
   ],
   "2025-05-04": [
     "🌌 Star Wars-dagen",
     "😂 Verdens latterdag"
   ],
+  "2025-05-08": [
+    "Frigjøringsdagen 1945"
+  ],
   "2025-05-09": [
     "🍦 Europeisk iskremdag"
   ],
   "2025-05-17": [
-    "Grunnlovsdagen (Nasjonaldag)",
-    "🇳🇴 Constitution Day"
+    "Grunnlovsdagen (Nasjonaldag)"
+  ],
+  "2025-05-29": [
+    "☁️ Kristi Himmelfartsdag"
   ],
   "2025-06-01": [
-    "🐶 Internasjonal hundedag (settes her)"
+    "🐶 Internasjonal hundedag"
+  ],
+  "2025-06-05": [
+    "Danmarks nasjonaldag"
+  ],
+  "2025-06-06": [
+    "Sverige nasjonaldag"
+  ],
+  "2025-06-07": [
+    "Unionsoppløsningen 1905"
+  ],
+  "2025-06-08": [
+    "🔥 Første pinsedag"
+  ],
+  "2025-06-09": [
+    "🔥 Andre pinsedag"
+  ],
+  "2025-06-14": [
+    "Verdens blodgiverdag",
+    "🇬🇧 Storbritannias nasjonaldag (2. lørdag i juni)"
   ],
   "2025-06-18": [
     "😎 Internasjonal picknickdag"
@@ -85,32 +149,74 @@
   "2025-06-24": [
     "☀️ Sankthansdagen"
   ],
+  "2025-06-29": [
+    "Persok"
+  ],
+  "2025-07-04": [
+    "HM Dronning Sonjas fødselsdag"
+  ],
   "2025-07-06": [
     "🍫 Verdens sjokoladedag"
+  ],
+  "2025-07-20": [
+    "HKH Kronprins Haakon Magnus’ fødselsdag"
   ],
   "2025-07-29": [
     "Olsok"
   ],
+  "2025-07-30": [
+    "Den internasjonale vennskapsdagen"
+  ],
+  "2025-08-03": [
+    "Vesle Olsok"
+  ],
   "2025-08-08": [
     "🐱 Verdens kattedag"
   ],
+  "2025-08-10": [
+    "Larsok"
+  ],
+  "2025-08-16": [
+    "Rugsok"
+  ],
+  "2025-08-24": [
+    "Barsok"
+  ],
   "2025-09-05": [
     "🧀 Internasjonal ostedag"
+  ],
+  "2025-09-10": [
+    "Verdensdagen for selvmordsforebygging"
   ],
   "2025-09-13": [
     "🎮 Internasjonal gamerdag"
   ],
   "2025-09-21": [
-    "🍂 Høstjevndøgn (ca. 21.–23. september)"
+    "🍂 Høstjevndøgn (ca. 21.–23. september)",
+    "Internasjonal fredsdag"
+  ],
+  "2025-09-25": [
+    "🥘 Fårikålens dag"
   ],
   "2025-09-29": [
     "☕ Internasjonal kaffedag"
   ],
   "2025-10-01": [
-    "💞 Puppedagen (brystkreftbevissthet)"
+    "💞 Puppedagen (brystkreftbevissthet)",
+    "Internasjonal musikkdag"
   ],
   "2025-10-04": [
     "🌮 Tacoens dag"
+  ],
+  "2025-10-10": [
+    "Verdensdagen for psykisk helse",
+    "🥚 Den internasjonelle eggdagen"
+  ],
+  "2025-10-11": [
+    "Den internasjonelle jentedagen"
+  ],
+  "2025-10-14": [
+    "Den internasjonelle eggdagen"
   ],
   "2025-10-16": [
     "🍞 Verdens matdag"
@@ -121,11 +227,23 @@
   "2025-10-24": [
     "FN-dagen"
   ],
+  "2025-10-26": [
+    "🕰️ Overgang til vintertid (still klokken tilbake)"
+  ],
   "2025-10-31": [
     "🎃 Halloween"
   ],
+  "2025-11-02": [
+    "🕯️ Allehelgensdag"
+  ],
+  "2025-11-09": [
+    "👨‍🍼 Farsdag"
+  ],
   "2025-11-11": [
     "💘 Singlesday"
+  ],
+  "2025-11-13": [
+    "😄 Verdens snillhetsdag"
   ],
   "2025-11-20": [
     "FNs internasjonale barnedag"
@@ -133,11 +251,17 @@
   "2025-11-21": [
     "Verdens fjernsynsdag"
   ],
-  "2025-11-13": [
-    "😄 Verdens snillhetsdag"
+  "2025-11-27": [
+    "🦃 Thanksgiving (USA)"
+  ],
+  "2025-11-28": [
+    "🛍️ Black Friday"
   ],
   "2025-12-10": [
     "🌍 Menneskerettighetsdagen"
+  ],
+  "2025-12-13": [
+    "Luciadagen"
   ],
   "2025-12-21": [
     "❄️ Vintersolverv (ca. 21.–22. desember)"
@@ -149,92 +273,16 @@
     "Julaften"
   ],
   "2025-12-25": [
-    "Første Juledag",
-    "Andre Juledag",
-    "🇳🇴 Christmas Day"
+    "Første Juledag"
+  ],
+  "2025-12-26": [
+    "Andre Juledag"
   ],
   "2025-12-31": [
     "Nyttårsaften"
   ],
-  "2025-02-09": [
-    "💐 Morsdag"
-  ],
-  "2025-11-09": [
-    "👨‍🍼 Farsdag"
-  ],
-  "2025-03-02": [
-    "🎭 Fastelavn"
-  ],
-  "2025-03-04": [
-    "🥞 Feittirsdag"
-  ],
-  "2025-03-05": [
-    "🙏 Askeonsdag"
-  ],
-  "2025-04-13": [
-    "🌿 Palmesøndag"
-  ],
-  "2025-04-17": [
-    "🍞 Skjærtorsdag",
-    "🇳🇴 Maundy Thursday"
-  ],
-  "2025-04-18": [
-    "✝️ Langfredag",
-    "🇳🇴 Good Friday"
-  ],
-  "2025-04-19": [
-    "🐣 Påskeaften"
-  ],
-  "2025-04-20": [
-    "🐰 Første påskedag",
-    "🇳🇴 Easter Sunday"
-  ],
-  "2025-04-21": [
-    "🐥 Andre påskedag",
-    "🇳🇴 Easter Monday"
-  ],
-  "2025-05-29": [
-    "☁️ Kristi Himmelfartsdag",
-    "🇳🇴 Ascension Day"
-  ],
-  "2025-06-08": [
-    "🔥 Første pinsedag",
-    "🇳🇴 Whit Sunday"
-  ],
-  "2025-06-09": [
-    "🔥 Andre pinsedag",
-    "🇳🇴 Whit Monday"
-  ],
-  "2025-03-30": [
-    "⏰ Overgang til sommertid (still klokken frem)"
-  ],
-  "2025-10-26": [
-    "🕰️ Overgang til vintertid (still klokken tilbake)"
-  ],
-  "2025-09-25": [
-    "🥘 Fårikålens dag"
-  ],
-  "2025-10-10": [
-    "🥚 Den internasjonale eggdagen"
-  ],
-  "2025-11-02": [
-    "🕯️ Allehelgensdag"
-  ],
-  "2025-11-27": [
-    "🦃 Thanksgiving (USA)"
-  ],
-  "2025-11-28": [
-    "🛍️ Black Friday"
-  ],
-  "2025-06-14": [
-    "🇬🇧 Storbritannias nasjonaldag (2. lørdag i juni)"
-  ],
-  "2025-12-26": [
-    "🇳🇴 Second Day of Christmas"
-  ],
   "2026-01-01": [
-    "Første nyttårsdag",
-    "🇳🇴 New Year's Day"
+    "Første nyttårsdag"
   ],
   "2026-01-04": [
     "Verdens blindeskriftdag"
@@ -254,8 +302,20 @@
   "2026-02-06": [
     "Den samiske nasjonaldagen"
   ],
+  "2026-02-08": [
+    "💐 Morsdag"
+  ],
   "2026-02-14": [
     "💘 Valentinsdagen"
+  ],
+  "2026-02-15": [
+    "🎭 Fastelavn"
+  ],
+  "2026-02-17": [
+    "🥞 Feittirsdag"
+  ],
+  "2026-02-18": [
+    "🙏 Askeonsdag"
   ],
   "2026-02-21": [
     "Internasjonal morsmålsdag",
@@ -282,31 +342,85 @@
   "2026-03-25": [
     "🧇 Vaffeldagen"
   ],
+  "2026-03-29": [
+    "🌿 Palmesøndag",
+    "⏰ Overgang til sommertid (still klokken frem)"
+  ],
+  "2026-04-02": [
+    "🍞 Skjærtorsdag"
+  ],
+  "2026-04-03": [
+    "✝️ Langfredag"
+  ],
+  "2026-04-04": [
+    "🐣 Påskeaften"
+  ],
+  "2026-04-05": [
+    "🐰 Første påskedag"
+  ],
+  "2026-04-06": [
+    "🐥 Andre påskedag"
+  ],
   "2026-04-07": [
     "🏃 Verdens helsedag"
   ],
   "2026-04-14": [
-    "🍖 Biff- og blowjob-dagen (humordag)"
+    "🍖 Biff- og bj-dagen"
   ],
   "2026-04-22": [
     "🌱 Jordens dag"
   ],
+  "2026-04-23": [
+    "Verdens Bokdag"
+  ],
+  "2026-04-29": [
+    "Dansens dag"
+  ],
   "2026-05-01": [
-    "⚒️ Arbeidernes dag",
-    "🇳🇴 Labor Day"
+    "⚒️ Arbeidernes dag"
+  ],
+  "2026-05-03": [
+    "Internasjonal dag for pressefrihet",
+    "😂 Verdens latterdag"
   ],
   "2026-05-04": [
     "🌌 Star Wars-dagen"
   ],
+  "2026-05-08": [
+    "Frigjøringsdagen 1945"
+  ],
   "2026-05-09": [
     "🍦 Europeisk iskremdag"
   ],
+  "2026-05-14": [
+    "☁️ Kristi Himmelfartsdag"
+  ],
   "2026-05-17": [
-    "Grunnlovsdagen (Nasjonaldag)",
-    "🇳🇴 Constitution Day"
+    "Grunnlovsdagen (Nasjonaldag)"
+  ],
+  "2026-05-24": [
+    "🔥 Første pinsedag"
+  ],
+  "2026-05-25": [
+    "🔥 Andre pinsedag"
   ],
   "2026-06-01": [
-    "🐶 Internasjonal hundedag (settes her)"
+    "🐶 Internasjonal hundedag"
+  ],
+  "2026-06-05": [
+    "Danmarks nasjonaldag"
+  ],
+  "2026-06-06": [
+    "Sverige nasjonaldag"
+  ],
+  "2026-06-07": [
+    "Unionsoppløsningen 1905"
+  ],
+  "2026-06-13": [
+    "🇬🇧 Storbritannias nasjonaldag (2. lørdag i juni)"
+  ],
+  "2026-06-14": [
+    "Verdens blodgiverdag"
   ],
   "2026-06-18": [
     "😎 Internasjonal picknickdag"
@@ -317,32 +431,76 @@
   "2026-06-24": [
     "☀️ Sankthansdagen"
   ],
+  "2026-06-29": [
+    "Persok"
+  ],
+  "2026-07-04": [
+    "HM Dronning Sonjas fødselsdag"
+  ],
   "2026-07-06": [
     "🍫 Verdens sjokoladedag"
+  ],
+  "2026-07-20": [
+    "HKH Kronprins Haakon Magnus’ fødselsdag"
   ],
   "2026-07-29": [
     "Olsok"
   ],
+  "2026-07-30": [
+    "Den internasjonale vennskapsdagen"
+  ],
+  "2026-08-03": [
+    "Vesle Olsok"
+  ],
   "2026-08-08": [
     "🐱 Verdens kattedag"
   ],
+  "2026-08-10": [
+    "Larsok"
+  ],
+  "2026-08-16": [
+    "Rugsok"
+  ],
+  "2026-08-24": [
+    "Barsok"
+  ],
   "2026-09-05": [
     "🧀 Internasjonal ostedag"
+  ],
+  "2026-09-10": [
+    "Verdensdagen for selvmordsforebygging"
   ],
   "2026-09-13": [
     "🎮 Internasjonal gamerdag"
   ],
   "2026-09-21": [
-    "🍂 Høstjevndøgn (ca. 21.–23. september)"
+    "🍂 Høstjevndøgn (ca. 21.–23. september)",
+    "Internasjonal fredsdag"
+  ],
+  "2026-09-24": [
+    "🥘 Fårikålens dag"
   ],
   "2026-09-29": [
     "☕ Internasjonal kaffedag"
   ],
   "2026-10-01": [
-    "💞 Puppedagen (brystkreftbevissthet)"
+    "💞 Puppedagen (brystkreftbevissthet)",
+    "Internasjonal musikkdag"
   ],
   "2026-10-04": [
     "🌮 Tacoens dag"
+  ],
+  "2026-10-09": [
+    "🥚 Den internasjonelle eggdagen"
+  ],
+  "2026-10-10": [
+    "Verdensdagen for psykisk helse"
+  ],
+  "2026-10-11": [
+    "Den internasjonelle jentedagen"
+  ],
+  "2026-10-14": [
+    "Den internasjonelle eggdagen"
   ],
   "2026-10-16": [
     "🍞 Verdens matdag"
@@ -353,11 +511,23 @@
   "2026-10-24": [
     "FN-dagen"
   ],
+  "2026-10-25": [
+    "🕰️ Overgang til vintertid (still klokken tilbake)"
+  ],
   "2026-10-31": [
     "🎃 Halloween"
   ],
+  "2026-11-01": [
+    "🕯️ Allehelgensdag"
+  ],
+  "2026-11-08": [
+    "👨‍🍼 Farsdag"
+  ],
   "2026-11-11": [
     "💘 Singlesday"
+  ],
+  "2026-11-13": [
+    "😄 Verdens snillhetsdag"
   ],
   "2026-11-20": [
     "FNs internasjonale barnedag"
@@ -365,11 +535,17 @@
   "2026-11-21": [
     "Verdens fjernsynsdag"
   ],
-  "2026-11-13": [
-    "😄 Verdens snillhetsdag"
+  "2026-11-26": [
+    "🦃 Thanksgiving (USA)"
+  ],
+  "2026-11-27": [
+    "🛍️ Black Friday"
   ],
   "2026-12-10": [
     "🌍 Menneskerettighetsdagen"
+  ],
+  "2026-12-13": [
+    "Luciadagen"
   ],
   "2026-12-21": [
     "❄️ Vintersolverv (ca. 21.–22. desember)"
@@ -381,88 +557,288 @@
     "Julaften"
   ],
   "2026-12-25": [
-    "Første Juledag",
-    "Andre Juledag",
-    "🇳🇴 Christmas Day"
+    "Første Juledag"
+  ],
+  "2026-12-26": [
+    "Andre Juledag"
   ],
   "2026-12-31": [
     "Nyttårsaften"
   ],
-  "2026-02-08": [
-    "💐 Morsdag"
+  "2027-01-01": [
+    "Første nyttårsdag"
   ],
-  "2026-11-08": [
-    "👨‍🍼 Farsdag"
+  "2027-01-04": [
+    "Verdens blindeskriftdag"
   ],
-  "2026-02-15": [
+  "2027-01-21": [
+    "HKH Prinsesse Ingrid Alexandras fødselsdag"
+  ],
+  "2027-01-24": [
+    "🍕 Internasjonal pizzadag"
+  ],
+  "2027-01-27": [
+    "🎂 Sjokoladekakedagen"
+  ],
+  "2027-02-05": [
+    "🍫 Nutella-dagen"
+  ],
+  "2027-02-06": [
+    "Den samiske nasjonaldagen"
+  ],
+  "2027-02-07": [
     "🎭 Fastelavn"
   ],
-  "2026-02-17": [
+  "2027-02-09": [
     "🥞 Feittirsdag"
   ],
-  "2026-02-18": [
+  "2027-02-10": [
     "🙏 Askeonsdag"
   ],
-  "2026-03-29": [
-    "🌿 Palmesøndag",
-    "⏰ Overgang til sommertid (still klokken frem)"
+  "2027-02-14": [
+    "💘 Valentinsdagen",
+    "💐 Morsdag"
   ],
-  "2026-04-02": [
-    "🍞 Skjærtorsdag",
-    "🇳🇴 Maundy Thursday"
+  "2027-02-21": [
+    "Internasjonal morsmålsdag",
+    "HM Haralds Vs fødselsdag"
   ],
-  "2026-04-03": [
-    "✝️ Langfredag",
-    "🇳🇴 Good Friday"
+  "2027-03-01": [
+    "Internasjonal dag mot all diskriminering"
   ],
-  "2026-04-04": [
+  "2027-03-08": [
+    "Kvinnedagen"
+  ],
+  "2027-03-14": [
+    "🥧 Pi-dagen (3.14)"
+  ],
+  "2027-03-17": [
+    "St. Patricks Day"
+  ],
+  "2027-03-20": [
+    "🌍 Internasjonal lykkedag"
+  ],
+  "2027-03-21": [
+    "🎵 Verdens poesidag",
+    "🌿 Palmesøndag"
+  ],
+  "2027-03-25": [
+    "🧇 Vaffeldagen",
+    "🍞 Skjærtorsdag"
+  ],
+  "2027-03-26": [
+    "✝️ Langfredag"
+  ],
+  "2027-03-27": [
     "🐣 Påskeaften"
   ],
-  "2026-04-05": [
+  "2027-03-28": [
     "🐰 Første påskedag",
-    "🇳🇴 Easter Sunday"
+    "⏰ Overgang til sommertid (still klokken frem)"
   ],
-  "2026-04-06": [
-    "🐥 Andre påskedag",
-    "🇳🇴 Easter Monday"
+  "2027-03-29": [
+    "🐥 Andre påskedag"
   ],
-  "2026-05-14": [
-    "☁️ Kristi Himmelfartsdag",
-    "🇳🇴 Ascension Day"
+  "2027-04-07": [
+    "🏃 Verdens helsedag"
   ],
-  "2026-05-24": [
-    "🔥 Første pinsedag",
-    "🇳🇴 Whit Sunday"
+  "2027-04-14": [
+    "🍖 Biff- og bj-dagen"
   ],
-  "2026-05-25": [
-    "🔥 Andre pinsedag",
-    "🇳🇴 Whit Monday"
+  "2027-04-22": [
+    "🌱 Jordens dag"
   ],
-  "2026-10-25": [
-    "🕰️ Overgang til vintertid (still klokken tilbake)"
+  "2027-04-23": [
+    "Verdens Bokdag"
   ],
-  "2026-05-03": [
+  "2027-04-29": [
+    "Dansens dag"
+  ],
+  "2027-05-01": [
+    "⚒️ Arbeidernes dag"
+  ],
+  "2027-05-02": [
     "😂 Verdens latterdag"
   ],
-  "2026-09-24": [
-    "🥘 Fårikålens dag"
+  "2027-05-03": [
+    "Internasjonal dag for pressefrihet"
   ],
-  "2026-10-09": [
-    "🥚 Den internasjonale eggdagen"
+  "2027-05-04": [
+    "🌌 Star Wars-dagen"
   ],
-  "2026-11-01": [
-    "🕯️ Allehelgensdag"
+  "2027-05-06": [
+    "☁️ Kristi Himmelfartsdag"
   ],
-  "2026-11-26": [
-    "🦃 Thanksgiving (USA)"
+  "2027-05-08": [
+    "Frigjøringsdagen 1945"
   ],
-  "2026-11-27": [
-    "🛍️ Black Friday"
+  "2027-05-09": [
+    "🍦 Europeisk iskremdag"
   ],
-  "2026-06-13": [
+  "2027-05-16": [
+    "🔥 Første pinsedag"
+  ],
+  "2027-05-17": [
+    "Grunnlovsdagen (Nasjonaldag)",
+    "🔥 Andre pinsedag"
+  ],
+  "2027-06-01": [
+    "🐶 Internasjonal hundedag"
+  ],
+  "2027-06-05": [
+    "Danmarks nasjonaldag"
+  ],
+  "2027-06-06": [
+    "Sverige nasjonaldag"
+  ],
+  "2027-06-07": [
+    "Unionsoppløsningen 1905"
+  ],
+  "2027-06-12": [
     "🇬🇧 Storbritannias nasjonaldag (2. lørdag i juni)"
   ],
-  "2026-12-26": [
-    "🇳🇴 Second Day of Christmas"
+  "2027-06-14": [
+    "Verdens blodgiverdag"
+  ],
+  "2027-06-18": [
+    "😎 Internasjonal picknickdag"
+  ],
+  "2027-06-23": [
+    "🔥 Sankthansaften"
+  ],
+  "2027-06-24": [
+    "☀️ Sankthansdagen"
+  ],
+  "2027-06-29": [
+    "Persok"
+  ],
+  "2027-07-04": [
+    "HM Dronning Sonjas fødselsdag"
+  ],
+  "2027-07-06": [
+    "🍫 Verdens sjokoladedag"
+  ],
+  "2027-07-20": [
+    "HKH Kronprins Haakon Magnus’ fødselsdag"
+  ],
+  "2027-07-29": [
+    "Olsok"
+  ],
+  "2027-07-30": [
+    "Den internasjonale vennskapsdagen"
+  ],
+  "2027-08-03": [
+    "Vesle Olsok"
+  ],
+  "2027-08-08": [
+    "🐱 Verdens kattedag"
+  ],
+  "2027-08-10": [
+    "Larsok"
+  ],
+  "2027-08-16": [
+    "Rugsok"
+  ],
+  "2027-08-24": [
+    "Barsok"
+  ],
+  "2027-09-05": [
+    "🧀 Internasjonal ostedag"
+  ],
+  "2027-09-10": [
+    "Verdensdagen for selvmordsforebygging"
+  ],
+  "2027-09-13": [
+    "🎮 Internasjonal gamerdag"
+  ],
+  "2027-09-21": [
+    "🍂 Høstjevndøgn (ca. 21.–23. september)",
+    "Internasjonal fredsdag"
+  ],
+  "2027-09-29": [
+    "☕ Internasjonal kaffedag"
+  ],
+  "2027-09-30": [
+    "🥘 Fårikålens dag"
+  ],
+  "2027-10-01": [
+    "💞 Puppedagen (brystkreftbevissthet)",
+    "Internasjonal musikkdag"
+  ],
+  "2027-10-04": [
+    "🌮 Tacoens dag"
+  ],
+  "2027-10-08": [
+    "🥚 Den internasjonelle eggdagen"
+  ],
+  "2027-10-10": [
+    "Verdensdagen for psykisk helse"
+  ],
+  "2027-10-11": [
+    "Den internasjonelle jentedagen"
+  ],
+  "2027-10-14": [
+    "Den internasjonelle eggdagen"
+  ],
+  "2027-10-16": [
+    "🍞 Verdens matdag"
+  ],
+  "2027-10-17": [
+    "Epledagen"
+  ],
+  "2027-10-24": [
+    "FN-dagen"
+  ],
+  "2027-10-31": [
+    "🎃 Halloween",
+    "🕰️ Overgang til vintertid (still klokken tilbake)"
+  ],
+  "2027-11-07": [
+    "🕯️ Allehelgensdag"
+  ],
+  "2027-11-11": [
+    "💘 Singlesday"
+  ],
+  "2027-11-13": [
+    "😄 Verdens snillhetsdag"
+  ],
+  "2027-11-14": [
+    "👨‍🍼 Farsdag"
+  ],
+  "2027-11-20": [
+    "FNs internasjonale barnedag"
+  ],
+  "2027-11-21": [
+    "Verdens fjernsynsdag"
+  ],
+  "2027-11-25": [
+    "🦃 Thanksgiving (USA)"
+  ],
+  "2027-11-26": [
+    "🛍️ Black Friday"
+  ],
+  "2027-12-10": [
+    "🌍 Menneskerettighetsdagen"
+  ],
+  "2027-12-13": [
+    "Luciadagen"
+  ],
+  "2027-12-21": [
+    "❄️ Vintersolverv (ca. 21.–22. desember)"
+  ],
+  "2027-12-23": [
+    "Lille Julaften"
+  ],
+  "2027-12-24": [
+    "Julaften"
+  ],
+  "2027-12-25": [
+    "Første Juledag"
+  ],
+  "2027-12-26": [
+    "Andre Juledag"
+  ],
+  "2027-12-31": [
+    "Nyttårsaften"
   ]
 }
